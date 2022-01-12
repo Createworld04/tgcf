@@ -5,8 +5,8 @@ description = "The ultimate tool to automate custom telegram message forwarding.
 authors = ["aahnik <daw@aahnik.dev>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/aahnik/tgcf"
-documentation = "https://github.com/aahnik/tgcf/wiki"
+repository = "https://github.com/Createworld04/tgcf"
+documentation = "hhttps://github.com/Createworld04/tgcf/wiki"
 
 [tool.poetry.dependencies]
 python = "^3.8"
